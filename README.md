@@ -1,3 +1,3 @@
 # example-pipeline
 
-Triggering a new job.
+Triggering a new job
